@@ -1,6 +1,7 @@
 # Weather-App
 A react app for weather forecast.
 
+*Note*: For best results run on mobile OR resize to mobile version. 
 
 https://sreyassunil.github.io/Weather-App/
 
